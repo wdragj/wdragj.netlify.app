@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+  - certificate_url: https://drive.google.com/file/d/1tYOy3H0i71xfHEBMS9sc_tUsaWJcrvWk/view?usp=sharing
     date_end: ''
     date_start: '2022-07-01'
     description: ''
