@@ -1,12 +1,14 @@
 ---
 title: Freddy Seo
-role: Sophomore at University of Wisconsin-Madison
+role: Second Year CS Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Web Development
+  - App Development
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,8 +41,11 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! My name is Freddy Seo and I am currently a second-year Computer Science student at the University of Wisconsin-Madison, intending a focus on Artificial Intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an energetic and passionate college student aiming to use the knowledge and skills that I have acquired from coursework, bootcamp, side projects, and self study to become an experienced software developer/engineer.
+
+Other than that, I really like coffee...
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
