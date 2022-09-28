@@ -25,12 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: wdragj@gmail.com
+  phone: +82 10 4085 7384
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    city: Madison
+    region: WI
     postcode: '94305'
     country: United States
     country_code: US
@@ -39,8 +39,7 @@ content:
     longitude: '-122.1697'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday ~ Friday 09:00 to 18:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
