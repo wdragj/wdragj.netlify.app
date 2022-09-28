@@ -1,8 +1,7 @@
 ---
 title: Freddy Seo
 role: Second Year CS Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: A second-year Computer Science student at the University of Wisconsin-Madison.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
