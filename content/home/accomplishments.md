@@ -23,29 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://drive.google.com/file/d/1tk4tJ6TrMfg2H2-Te_5eNaNGxSxxwCUW/view?usp=sharing
+    date_end: ''
+    date_start: '2022-09-01'
+    description: ''
+    organization: Seocho-gu office, Korea
+    organization_url: https://seocho.go.kr/site/fe/main.do
+    title: 2022 Seocho Special AI Academy Program First Place Award
+    url: ''
   - certificate_url: https://drive.google.com/file/d/1tYOy3H0i71xfHEBMS9sc_tUsaWJcrvWk/view?usp=sharing
     date_end: ''
     date_start: '2022-07-01'
     description: ''
     organization: Seocho-gu office, Korea
     organization_url: https://seocho.go.kr/site/fe/main.do
-    title: Special AI Academy Program
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: 2022 Seocho Special AI Academy Program Certificate
     url: ''
 
 design:
