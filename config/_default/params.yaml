@@ -19,8 +19,8 @@
   # Cyberpunk (hacker style)
   # Native: use device fonts for maximum performance
 appearance:
-  theme_day: Forest
-  theme_night: Forest
+  theme_day: Coffee
+  theme_night: Coffee
   font: Minimal
   font_size: L
 
