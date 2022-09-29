@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer Intern
     company: NEXTLab
     company_url: 'http://www.nextlab.ai/en/'
-    company_logo: org-gc
+    company_logo: NEXTLab-logo
     location: Seoul, Republic of Korea
     date_start: '2022-10-04'
     date_end: ''
