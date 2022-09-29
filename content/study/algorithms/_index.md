@@ -6,6 +6,7 @@ date: '2021-01-24'
 type: book
 tags:
   - Algorithms
+commentable: true
 ---
 
 {{< figure src="featured.jpg" >}}
