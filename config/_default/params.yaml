@@ -20,7 +20,7 @@
   # Native: use device fonts for maximum performance
 appearance:
   theme_day: Mr Robot
-  theme_night: minimal
+  theme_night: Mr Robot
   font: minimal
   font_size: L
 
