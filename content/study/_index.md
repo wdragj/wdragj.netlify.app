@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 My studies
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+Below are topics that I have studied!<br/>
