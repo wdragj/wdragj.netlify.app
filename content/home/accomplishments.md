@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Seocho-gu office, Korea
     organization_url: https://seocho.go.kr/site/fe/main.do
-    title: 2022 Special AI Academy Program Certificate<br/>(Funded by: Seocho-gu office & KAIST)
+    title: '2022 Special AI Academy Program Certificate<br/>(Funded by: Seocho-gu office & KAIST)'
     url: ''
 
 design:
