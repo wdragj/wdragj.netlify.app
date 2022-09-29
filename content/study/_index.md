@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Below are topics that I have studied!<br/>
+Below are topics that I have studied!<br/><br/>
