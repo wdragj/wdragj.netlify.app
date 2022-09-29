@@ -29,7 +29,7 @@ experience:
     location: Seoul, Republic of Korea
     date_start: '2022-10-04'
     date_end: ''
-    description: AI-based service development (full stack).
+    description: 'AI-based service development (full stack).'
 
   - title: Assistant to drill instructor, Sergeant
     company: ROK Army

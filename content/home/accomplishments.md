@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2022-09-01'
     description: ''
-    organization: Seocho-gu office, Korea
-    organization_url: https://seocho.go.kr/site/fe/main.do
-    title: 2022 Seocho Special AI Academy Program First Place Award
+    organization: KAIST IT Academy
+    organization_url: https://ita.kaist.ac.kr/
+    title: '2022 Special AI Academy Program (Funded by: Seocho-gu office & KAIST) First Place Award'
     url: ''
   - certificate_url: https://drive.google.com/file/d/1tYOy3H0i71xfHEBMS9sc_tUsaWJcrvWk/view?usp=sharing
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Seocho-gu office, Korea
     organization_url: https://seocho.go.kr/site/fe/main.do
-    title: 2022 Seocho Special AI Academy Program Certificate
+    title: '2022 Special AI Academy Program (Funded by: Seocho-gu office & KAIST) Certificate'
     url: ''
 
 design:
