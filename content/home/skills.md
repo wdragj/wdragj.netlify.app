@@ -16,23 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: ~1 year<br/><br/><br/><br/><br/>
+  - description: ~1 year<br/><br/>
     icon: html5
     icon_pack: fab
     name: HTML 5
-  - description: ~1 year<br/>
+  - description: ~1 year<br/><br/>
     icon: css3-alt
     icon_pack: fab
     name: CSS 3
-  - description: ~1 year<br/>
+  - description: ~1 year<br/><br/>
     icon: js
     icon_pack: fab
     name: JavaScript
-  - description: ~1 year<br/>
+  - description: ~1 year<br/><br/>
     icon: python
     icon_pack: fab
     name: Python
-  - description: ~2 years<br/>
+  - description: ~2 years<br/><br/>
     icon: java
     icon_pack: fab
     name: Java
