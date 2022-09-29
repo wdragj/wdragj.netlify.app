@@ -1,7 +1,7 @@
 ---
-title: 🤖 Java
+title: Java
 linkTitle: Java
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Organized study material on Java programming language.
 date: '2021-01-24'
 type: book
 tags:

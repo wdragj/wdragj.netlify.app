@@ -1,7 +1,7 @@
 ---
-title: 📊 Algorithms
+title: Algorithms
 linkTitle: Algorithms
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Organized study material on algorithms.
 date: '2021-01-24'
 type: book
 tags:
