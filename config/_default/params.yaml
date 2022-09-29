@@ -79,7 +79,11 @@ features:
     theme_dark: dracula
   math:
     enable: true
+  diagram:
+    enable: true
   privacy_pack:
+    enable: true
+  docs_section_pager:
     enable: true
   repository:
     url: 'https://github.com/wdragj/wdragj.netlify.app'
@@ -115,6 +119,9 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  icon:
+    pack:
+      ai: true
 
 # Extensions
 
