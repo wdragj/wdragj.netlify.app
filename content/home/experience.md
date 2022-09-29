@@ -33,8 +33,8 @@ experience:
 
   - title: Assistant to drill instructor, Sergeant
     company: ROK Army
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english'
+    company_logo: ROKA-logo
     location: Gangwon-do, Republic of Korea
     date_start: '2020-08-22'
     date_end: '2022-02-17'
