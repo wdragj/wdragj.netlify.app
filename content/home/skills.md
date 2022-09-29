@@ -36,27 +36,7 @@ feature:
     icon: java
     icon_pack: fab
     name: Java
-feature:
-  - description: ~1 year<br/>
-    icon: html5
-    icon_pack: fab
-    name: HTML 5
-  - description: ~1 year<br/>
-    icon: css3-alt
-    icon_pack: fab
-    name: CSS 3
-  - description: ~1 year<br/>
-    icon: js
-    icon_pack: fab
-    name: JavaScript
-  - description: ~1 year<br/>
-    icon: python
-    icon_pack: fab
-    name: Python
-  - description: ~2 years<br/>
-    icon: java
-    icon_pack: fab
-    name: Java
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
