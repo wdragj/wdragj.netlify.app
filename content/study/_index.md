@@ -1,5 +1,5 @@
 ---
-title: 📚 My studies
+title: 📚 CS studies
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Below are topics that I have studied!<br/><br/>
+Below are CS topics that I have studied!<br/><br/>

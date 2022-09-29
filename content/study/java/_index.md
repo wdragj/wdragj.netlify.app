@@ -1,11 +1,11 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
+title: 🤖 Java
+linkTitle: Java
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - Java
 ---
 
 {{< figure src="featured.jpg" >}}
