@@ -20,18 +20,22 @@ feature:
     icon: html5
     icon_pack: fab
     name: HTML 5
+
   - description: ~1 year<br/><br/>
     icon: css3-alt
     icon_pack: fab
     name: CSS 3
+
   - description: ~1 year<br/><br/>
     icon: js
     icon_pack: fab
     name: JavaScript
+
   - description: ~1 year<br/><br/>
     icon: python
     icon_pack: fab
     name: Python
+
   - description: ~2 years<br/><br/>
     icon: java
     icon_pack: fab
