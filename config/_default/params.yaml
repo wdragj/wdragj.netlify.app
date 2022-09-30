@@ -19,7 +19,7 @@
   # Cyberpunk (hacker style)
   # Native: use device fonts for maximum performance
 appearance:
-  theme_day: Rose
+  theme_day: Mr Robot
   theme_night: Mr Robot
   font: Minimal
   font_size: L
