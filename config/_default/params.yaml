@@ -19,8 +19,8 @@
   # Cyberpunk (hacker style)
   # Native: use device fonts for maximum performance
 appearance:
-  theme_day: Earth
-  theme_night: Earth
+  theme_day: Strawberry
+  theme_night: Mr Robot
   font: Minimal
   font_size: L
 
