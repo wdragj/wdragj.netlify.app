@@ -43,7 +43,7 @@ experience:
         * Created and implemented an automated process of updating the gun bulletin board
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
 
-  - title: 'Bachelor in Computer Science (Year 1)'
+  - title: 'Bachelor in Computer Science'
       company: University of Wisconsin-Madison
       company_url: 'https://www.cs.wisc.edu/'
       company_logo: UW-Madison-Logo
