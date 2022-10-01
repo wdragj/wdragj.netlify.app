@@ -30,7 +30,6 @@ experience:
     date_start: '2022-10-04'
     date_end: ''
     description: 'AI-based service development (full stack)'
-
   - title: "Assistant to drill instructor, Sergeant"
     company: ROK Army
     company_url: 'https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english'
@@ -42,7 +41,6 @@ experience:
         Job description:
         * Created and implemented an automated process of updating the gun bulletin board
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
-
   - title: "Bachelor in Computer Science"
       company: University of Wisconsin-Madison
       company_url: 'https://www.cs.wisc.edu/'
