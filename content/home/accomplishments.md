@@ -10,8 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: Accomplishments
-subtitle: Awards & Achievements
+title: Achievements
+subtitle: Awards & Certificates
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
