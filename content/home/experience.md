@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Work and education related
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
