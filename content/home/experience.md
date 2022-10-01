@@ -44,5 +44,5 @@ experience:
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
 
 design:
-  columns: '3'
+  columns: '2'
 ---
