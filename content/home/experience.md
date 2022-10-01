@@ -43,6 +43,19 @@ experience:
         * Created and implemented an automated process of updating the gun bulletin board
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
 
+  - title: "Bachelor in Computer Science"
+      company: University of Wisconsin-Madison
+      company_url: 'https://www.cs.wisc.edu/'
+      company_logo: UW-Madison-Logo
+      location: Wisconsin, United States
+      date_start: '2019-09-07'
+      date_end: '2020-05-05'
+      description: |2-
+          Bachelor of Science - Computer Science
+          * Problem abstraction and decomposition, Edit-compile-run cycle, Testing and debugging techniques, IO processing techniques, Object-Oriented Programming, Parametric polymorphism, Complexity analysis
+          * Group semester projects
+          * Major courses:
+
 design:
   columns: '2'
 ---
