@@ -46,9 +46,9 @@ tags:
 
 Below are some common terms of Java.  
 **1. Java Virtual Machine(JVM):**
-- This is generally referred to as JVM
-- There are **three** execution phases of a program
-- They are written, compile and run the program
+  - This is generally referred to as JVM
+  - There are **three** execution phases of a program
+  - They are written, compile and run the program
 
 <br/><br/>
 
