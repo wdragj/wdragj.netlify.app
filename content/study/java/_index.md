@@ -40,6 +40,8 @@ tags:
 - **Java does not require any preprocessor:**
   - Java does not require inclusion of header files for creating a Java application
 
+<br/><br/>
+
 ## Java Terminology
 
 Below are some common terms of Java.
@@ -47,6 +49,8 @@ Below are some common terms of Java.
 - This is generally referred to as JVM
 - There are **three** execution phases of a program
 - They are written, compile and run the program
+
+<br/><br/>
 
 ## Courses in this program
 
