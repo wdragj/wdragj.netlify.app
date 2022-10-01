@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 'Software Engineer Intern'
+  - title: "Software Engineer Intern"
     company: NEXTLab
     company_url: 'http://www.nextlab.ai/en/'
     company_logo: NEXTLab-logo
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: 'AI-based service development (full stack)'
 
-  - title: 'Assistant to drill instructor, Sergeant'
+  - title: "Assistant to drill instructor, Sergeant"
     company: ROK Army
     company_url: 'https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english'
     company_logo: ROKA-logo
@@ -43,7 +43,7 @@ experience:
         * Created and implemented an automated process of updating the gun bulletin board
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
 
-  - title: 'Bachelor in Computer Science'
+  - title: "Bachelor in Computer Science"
       company: University of Wisconsin-Madison
       company_url: 'https://www.cs.wisc.edu/'
       company_logo: UW-Madison-Logo
