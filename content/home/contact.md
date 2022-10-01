@@ -4,7 +4,7 @@ widget_id: contact
 headless: true
 weight: 130
 title: Contact
-subtitle: Contact me for questions or additional information
+subtitle: Contact me!
 content:
   autolink: true
   form:
