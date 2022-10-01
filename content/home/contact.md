@@ -3,8 +3,8 @@ widget: contact
 widget_id: contact
 headless: true
 weight: 130
-title: Contact Me
-subtitle: null
+title: Contact
+subtitle: Contact me for questions or additional information
 content:
   autolink: true
   form:
