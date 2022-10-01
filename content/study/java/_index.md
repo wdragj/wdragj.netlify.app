@@ -1,5 +1,5 @@
 ---
-title: Java
+title: Java ---
 linkTitle: Java
 summary: Organized study material on Java programming language.
 date: '2021-01-24'
