@@ -30,6 +30,7 @@ experience:
     date_start: '2022-10-04'
     date_end: ''
     description: 'AI-based service development (full stack)'
+
   - title: "Assistant to drill instructor, Sergeant"
     company: ROK Army
     company_url: 'https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english'
@@ -41,23 +42,6 @@ experience:
         Job description:
         * Created and implemented an automated process of updating the gun bulletin board
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
-  - title: "Bachelor in Computer Science"
-      company: University of Wisconsin-Madison
-      company_url: 'https://www.cs.wisc.edu/'
-      company_logo: UW-Madison-Logo
-      location: Wisconsin, United States
-      date_start: '2019-09-07'
-      date_end: '2020-05-05'
-      description: |2-
-          Bachelor of Science - Computer Science
-          * Problem abstraction and decomposition, Edit-compile-run cycle, Testing and debugging techniques, IO processing techniques, Object-Oriented Programming, Parametric polymorphism, Complexity analysis
-          * Group semester projects
-          * Major courses:
-            * CS 200 Programming I
-            * Math 221 Calculus I
-            * CS 300 Programming II
-            * Math 222 – Calculus II
-            * CS 240 Discrete Math
 
 design:
   columns: '3'
