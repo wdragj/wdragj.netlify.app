@@ -1,14 +1,15 @@
 ---
-title: Statistics
+title: Variables & Data types
 date: '2021-01-01'
 type: book
 weight: 40
+highlight: true
 math: true
 tags:
-  - Statistics
+  - Java
 ---
 
-Introduction to statistics for data science.
+Variables & Data types in Java.
 
 <!--more-->
 

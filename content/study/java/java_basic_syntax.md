@@ -1,11 +1,15 @@
 ---
-title: Python basics
+title: Java Basic Syntax
 date: '2021-01-01'
 type: book
 weight: 20
+highlight: true
+math: true
+tags:
+  - Java
 ---
 
-Build a foundation in Python.
+A brief information on the Classes and Objects, Method, Instance variables, syntax, and semantics of Java.
 
 <!--more-->
 

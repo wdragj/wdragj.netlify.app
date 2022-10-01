@@ -1,14 +1,18 @@
 ---
-title: Visualization
+title: Differences between JDK, JRE and JVM
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
+math: true
 tags:
-  - Data Visualization
+  - Java
+  - JDK
+  - JRE
+  - JVM
 ---
 
-Learn how to visualize data with Plotly.
+JDK, JRE and JVM and the differences between them.
 
 <!--more-->
 
