@@ -62,5 +62,5 @@ experience:
             * CS 240 Discrete Math
 
 design:
-  columns: '2'
+  columns: '3'
 ---
