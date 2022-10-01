@@ -43,13 +43,13 @@ experience:
         * Created and implemented an automated process of updating the gun bulletin board
         * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
 
-  - title: "Assistant to drill instructor, Sergeant"
+  - title: "Bachelor in Computer Science (Year 1)"
     company: ROK Army
-    company_url: 'https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english'
-    company_logo: ROKA-logo
-    location: Gangwon-do, Republic of Korea
-    date_start: '2020-08-22'
-    date_end: '2022-02-17'
+    company_url: 'https://www.cs.wisc.edu/'
+    company_logo: UW-Madison-Logo
+    location: Wisconsin, United States
+    date_start: '2019-09-07'
+    date_end: '2020-05-05'
     description: |2-
         Job description:
         * Created and implemented an automated process of updating the gun bulletin board
