@@ -13,7 +13,7 @@ tags:
 {{< toc hide_on="xl" >}}
 
 ## About java
-
+---
 - **Java is a simple programming language**:
   - Java is based on C++
   - Java has removed many confusing and rarely-used features e.g. explicit pointers, operator overloading, etc
@@ -43,7 +43,7 @@ tags:
 <br/><br/>
 
 ## Java Terminology
-
+---
 Below are some common terms of Java.  
 1. **Java Virtual Machine(JVM):**
    * This is generally referred to as JVM
@@ -53,5 +53,5 @@ Below are some common terms of Java.
 <br/><br/>
 
 ## Courses in this program
-
+---
 {{< list_children >}}
