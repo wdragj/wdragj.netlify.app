@@ -10,7 +10,7 @@ summary: Docker is a tool that allows developers, sys-admins etc. to easily
 draft: false
 featured: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Docker
 categories:
@@ -20,7 +20,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: https://nextculture.github.io/public/uploads/2020-05-20-docker-start/000.png
 ---
 ## W﻿hat is Docker?
