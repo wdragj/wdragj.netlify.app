@@ -21,7 +21,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: docker-logo.png
+  filename: featured.png
 ---
 ## W﻿hat is Docker?
 
