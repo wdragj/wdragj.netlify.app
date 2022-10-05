@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Recent Posts
+widget_id: RECENT-POSTS
 headless: true
 weight: 60
-title: Recent Posts
+title: ""
 subtitle: null
 active: false
 content:
