@@ -20,7 +20,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: true
+  preview_only: false
   filename: https://nextculture.github.io/public/uploads/2020-05-20-docker-start/000.png
 ---
 ## W﻿hat is Docker?
