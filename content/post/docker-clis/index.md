@@ -1,6 +1,6 @@
 ---
 title: Docker - CLIs
-subtitle: An organized list of docker CLIs that are useful.
+subtitle: An organized list of docker CLIs that are useful
 date: 2022-10-06T17:29:47.193Z
 summary: An organized list of docker CLIs that are useful.
 draft: false
