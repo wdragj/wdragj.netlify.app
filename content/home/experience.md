@@ -30,8 +30,10 @@ experience:
     date_start: "2022-10-04"
     date_end: "2022-12-31"
     description: |2-
-        Worked in the IAS(Intelligent Automation Service) team to develop AI-based service development.\n
-        Was a part of the PlantyM - NewsPaper OCR project, which is an event driven micro service that runs serverless on the AWS cloud.\n
+        Worked in the IAS(Intelligent Automation Service) team to develop AI-based service development.
+
+        Was a part of the PlantyM - NewsPaper OCR project, which is an event driven micro service that runs serverless on the AWS cloud.
+        
         PlantyM - NewsPaper OCR project uses different deep learning AI modules with Computer Vision and Natural Language Processing to recognize images and text to make an automated e-newspaper service.
         
         Involved in…
