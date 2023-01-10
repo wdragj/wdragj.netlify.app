@@ -24,32 +24,20 @@ date_format: Jan 2006
 experience:
   - title: "Software Engineer Intern"
     company: NEXTLab
-    company_url: "http://www.nextlab.ai/en/"
+    company_url: 'http://www.nextlab.ai/en/'
     company_logo: NEXTLab-logo
     location: Seoul, Republic of Korea
-    date_start: "2022-10-04"
-    date_end: ""
-    description: |2-
-        Worked in the IAS(Intelligent Automation Service) team to develop AI-based service development.
-        Was a part of the PlantyM - NewsPaper OCR project, which is an event driven micro service that runs serverless on the AWS cloud.
-        PlantyM - NewsPaper OCR project uses different deep learning AI modules with Computer Vision and Natural Language Processing to recognize images and text to make an automated e-newspaper service.
-        
-        Involved in…
-        * Implementing Event Driven Architecture code
-        * Enhancing and evaluating AI modules
-        * Creating and implementing multiple algorithms and data structures which groups and categorizes news articles efficiently
-        * Building RESTful API using node.js
-        * Building, testing, and deploying applications quickly through Docker containers
-        * Running containers and code on the cloud, providing a serverless, event-driven compute service using AWS lambda
-        * Building serverless workflows using AWS step functions
+    date_start: '2022-10-04'
+    date_end: ''
+    description: 'AI-based service development (full stack)'
 
   - title: "Assistant to drill instructor, Sergeant"
     company: ROK Army
-    company_url: "https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english"
+    company_url: 'https://www.army.mil.kr/webapp/user/indexMain.do?siteId=english'
     company_logo: ROKA-logo
     location: Gangwon-do, Republic of Korea
-    date_start: "2020-08-22"
-    date_end: "2022-02-17"
+    date_start: '2020-08-22'
+    date_end: '2022-02-17'
     description: |2-
         Job description:
         * Created and implemented an automated process of updating the gun bulletin board
@@ -57,11 +45,11 @@ experience:
 
   - title: "Bachelor in Computer Science (Year 1)"
     company: University of Wisconsin-Madison
-    company_url: "https://www.cs.wisc.edu/"
+    company_url: 'https://www.cs.wisc.edu/'
     company_logo: UW-Madison-Logo
     location: Wisconsin, United States
-    date_start: "2019-09-07"
-    date_end: "2020-05-05"
+    date_start: '2019-09-07'
+    date_end: '2020-05-05'
     description: |2-
         Bachelor of Science - Computer Science
         * Topics:
@@ -81,5 +69,5 @@ experience:
           * CS 240 Discrete Math
 
 design:
-  columns: "2"
+  columns: '2'
 ---
