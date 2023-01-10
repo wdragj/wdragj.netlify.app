@@ -29,7 +29,19 @@ experience:
     location: Seoul, Republic of Korea
     date_start: '2022-10-04'
     date_end: ''
-    description: 'AI-based service development (full stack)'
+    description: |2-
+        Worked in the IAS(Intelligent Automation Service) team to develop AI-based service development.
+        Was a part of the PlantyM - NewsPaper OCR project, which is an event driven micro service that runs serverless on the AWS cloud.
+        PlantyM - NewsPaper OCR project uses different deep learning AI modules with Computer Vision and Natural Language Processing to recognize images and text to make an automated e-newspaper service.
+        
+        Involved in…
+        * Implementing Event Driven Architecture code
+        * Enhancing and evaluating AI modules
+        * Creating and implementing multiple algorithms and data structures which groups and categorizes news articles efficiently
+        * Building RESTful API using node.js
+        * Building, testing, and deploying applications quickly through Docker containers
+        * Running containers and code on the cloud, providing a serverless, event-driven compute service using AWS lambda
+        * Building serverless workflows using AWS step functions
 
   - title: "Assistant to drill instructor, Sergeant"
     company: ROK Army
