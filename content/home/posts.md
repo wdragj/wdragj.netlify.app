@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -36,3 +37,31 @@ design:
   view: compact
   columns: '2'
 ---
+=======
+---
+widget: pages
+widget_id: RECENT-POSTS
+headless: true
+weight: 60
+title: Recent Posts
+subtitle: null
+active: true
+content:
+  filters:
+    folders:
+      - post
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  count: 5
+  offset: 0
+  order: desc
+design:
+  view: compact
+  columns: "2"
+---
+>>>>>>> 9be2692422325f2304c3f97f34e28a6acb082abe

@@ -42,8 +42,6 @@ experience:
         * Building, testing, and deploying applications quickly through Docker containers
         * Running containers and code on the cloud, providing a serverless, event-driven compute service using AWS lambda
         * Building serverless workflows using AWS step functions
-        * Created and implemented an automated process of updating the gun bulletin board
-        * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
 
   - title: "Assistant to drill instructor, Sergeant"
     company: ROK Army
