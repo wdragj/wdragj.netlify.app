@@ -46,6 +46,16 @@ feature:
     icon_pack: fab
     name: Node.js
 
+  - description: ~1 year<br/><br/>
+    icon: docker
+    icon_pack: fab
+    name: Docker
+
+  - description: ~1 year<br/><br/>
+    icon: aws
+    icon_pack: fab
+    name: aws
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
