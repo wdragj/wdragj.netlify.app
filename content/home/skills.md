@@ -31,7 +31,7 @@ feature:
     icon_pack: fab
     name: JavaScript
 
-  - description: ~1 year<br/><br/>
+  - description: ~2 year<br/><br/>
     icon: python
     icon_pack: fab
     name: Python
