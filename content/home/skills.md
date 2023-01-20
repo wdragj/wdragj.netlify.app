@@ -41,6 +41,11 @@ feature:
     icon_pack: fab
     name: Java
 
+  - description: ~1 year<br/><br/>
+    icon: node-js
+    icon_pack: fab
+    name: Node.js
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
