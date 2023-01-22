@@ -10,13 +10,13 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
       captcha: false
   email: wdragj@gmail.com
-  phone: "+1 (608)-515-1255"
+  phone: +1 (608)-515-1255
   address:
-    street: "1402 Regent Street"
+    street: 1402 Regent Street
     city: Madison
     region: WI
     postcode: "53711"
