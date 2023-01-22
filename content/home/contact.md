@@ -14,12 +14,12 @@ content:
     netlify:
       captcha: false
   email: wdragj@gmail.com
-  phone: +1 (608)-515-1255
+  phone: +82 10 4085 7384
   address:
-    street: 1402 Regent Street
+    street: 450 Serra Mall
     city: Madison
     region: WI
-    postcode: "53711"
+    postcode: "94305"
     country: United States
     country_code: US
 design:
