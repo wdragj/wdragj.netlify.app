@@ -54,8 +54,9 @@ experience:
     date_end: "2022-02-17"
     description: |2-
         Job description:
-        * Created and implemented an automated process of updating the gun bulletin board
-        * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad in my unit
+        * As an assistant to the drill instructor, it was my duty to train and teach trainees basic army knowledge and give basic army training.
+        * As a squad leader, it was my duty to lead conferences and settle problems and complaints of my squad at our unit.
+        * Created and implemented an automated process of updating the gun bulletin board.
 
   - title: "Bachelor in Computer Science (Year 1)"
     company: University of Wisconsin-Madison

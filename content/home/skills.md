@@ -55,7 +55,6 @@ feature:
     icon: aws
     icon_pack: fab
     name: aws
-
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
