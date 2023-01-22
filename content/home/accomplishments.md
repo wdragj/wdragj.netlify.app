@@ -27,7 +27,7 @@ item:
   # - certificate_url: {{% staticref "uploads/resume.pdf" "newtab" %}}{{% /staticref %}}
     date_end: ''
     date_start: '2022-09-01'
-    description: 'HI'
+    description: {{% staticref "uploads/resume.pdf" "newtab" %}}See certificate{{% /staticref %}}
     organization: KAIST IT Academy
     organization_url: https://ita.kaist.ac.kr/
     title: '2022 Special AI Academy Program (First Place Award)<br/>Funded by: Seocho-gu office & KAIST'
