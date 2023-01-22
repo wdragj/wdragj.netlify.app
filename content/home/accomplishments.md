@@ -24,10 +24,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://drive.google.com/file/d/1tk4tJ6TrMfg2H2-Te_5eNaNGxSxxwCUW/view?usp=sharing
-  # - certificate_url: {{% staticref "uploads/resume.pdf" "newtab" %}}{{% /staticref %}}
     date_end: ''
     date_start: '2022-09-01'
-    description: '{{% staticref "uploads/resume.pdf" "newtab" %}}See certificate{{% /staticref %}}'
+    description: ''
     organization: KAIST IT Academy
     organization_url: https://ita.kaist.ac.kr/
     title: '2022 Special AI Academy Program (First Place Award)<br/>Funded by: Seocho-gu office & KAIST'
