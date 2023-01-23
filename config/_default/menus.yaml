@@ -28,9 +28,9 @@ main:
     url: '#posts'
     weight: 60
 
-  - name: Projects
-    url: '#projects'
-    weight: 70
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 70
 
   - name: Contact
     url: '#contact'
