@@ -23,7 +23,7 @@ social:
     link: https://github.com/wdragj
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/freddy-seo-00003a237/
+    link: https://www.linkedin.com/in/frederick-seo-00003a237/
 organizations:
   - name: University of Wisconsin-Madison
     url: https://www.wisc.edu/
