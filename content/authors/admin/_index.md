@@ -40,9 +40,9 @@ superuser: true
 highlight_name: true
 ---
 
-Hello! My name is Freddy Seo and I am currently a second-year Computer Science student at the University of Wisconsin-Madison, intending a focus on Artificial Intelligence.
+Hello! My name is Freddy Seo and I am currently a second-year Computer Science student at the University of Wisconsin-Madison, intending a focus on Software Development.
 
-I am an energetic and passionate college student aiming to use the knowledge and skills that I have acquired from coursework, bootcamp, side projects, and self study to become an experienced software developer/engineer.
+I am an energetic and passionate college student aiming to use the knowledge and skills that I have acquired from coursework, projects, previous internship, and self study to become an experienced software developer.
 
 Other than that, I really like coffee...
 
