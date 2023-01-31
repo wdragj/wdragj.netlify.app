@@ -3,11 +3,12 @@ title: Freddy Seo
 role: Second Year CS Student
 bio: A second-year Computer Science student at the University of Wisconsin-Madison.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Development
   - Web Development
   - App Development
+  - Cloud Services
+  - Information Retrieval
+  - Computational Linguistics
 social:
   - icon: envelope
     icon_pack: fas
